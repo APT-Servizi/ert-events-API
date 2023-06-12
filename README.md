@@ -7,4 +7,4 @@ della [regione Emilia Romagna](https://emiliaromagnaturismo.it/it)
 
 I files per la versione 2.0 del sistema possono essere trovati all'interno della cartella `v2/`:
 
-Una copia del file con le regole seguite per la validazione è distribuita in questo repository ed è presente al seguente [link](https://github.com/APT-Servizi/Emilia-Romagna-Events-API/blob/main/v2/.spectral.yml)
+Una copia del file con le regole seguite per la validazione è distribuita in questo repository ed è presente al seguente [link](https://github.com/APT-Servizi/ert-events-API/blob/43d5383ef75be9f1885f13391da459f419b8ed64/v2/.spectral.yml)
